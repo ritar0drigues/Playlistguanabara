@@ -1,0 +1,1 @@
+Aprendendo a linguagem Python 3 pelo canal Curso em Vídeo. Cada playlist representa um conjunto de assuntos definidos, com a teoria salva nos arquivos das aulas e muitos exercícios práticos. A playlist 01 aborda os fundamentos básicos da linguagem, a playlist 02 apresenta as estruturas de controle, e a playlist 03 enfatiza as estruturas compostas.
