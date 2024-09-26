@@ -1,0 +1,7 @@
+nome = str(input('Digite o nome de uma pessoa: '))
+print(nome.upper())
+print(nome.lower())
+frase = nome.strip()
+print(len(frase))
+primeironome = nome.split()
+print(primeironome[0])

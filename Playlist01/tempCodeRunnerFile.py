@@ -1,0 +1,5 @@
+catetop = float(input("Digite o valor do cateto oposto: "))
+# ladop = math.pow(catetop,2)
+# catetoadj = float(input("Digite o valor do cateto adjacente: "))
+# ladoadj = math.pow(catetoadj,2)
+# print("O valor da hipotenusa é {}".format(math.sqrt(ladop + ladoadj)))
